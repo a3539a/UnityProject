@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 8d66d5782f3b5442ea95e862c5b83145
+timeCreated: 1512637793
+licenseType: Store
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Baloo Bhaijaan
+  fontNames:
+  - Baloo Bhaijaan
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
